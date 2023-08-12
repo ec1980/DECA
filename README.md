@@ -14,9 +14,9 @@ This is a fork of https://github.com/cedro3/DECA with a couple bug fixes for it 
 
 - Download data
     - Register at https://flame.is.tue.mpg.de/register.php
-    - Sign in and download data form [FLAME 2020 model](https://flame.is.tue.mpg.de/download.php). 
-    - Unzip the file
-    - Copy `generic_model.pkl` to `data` folder
+    - Sign in and download data form [FLAME 2020 model](https://flame.is.tue.mpg.de/download.php) and [DECA trained model](https://drive.google.com/file/d/1rp8kdyLPvErw2dTmqtjISRVvQLj6Yzje/view?usp=sharing). 
+    - Unzip FLAME2020.zip file (not the tar file)
+    - Copy `generic_model.pkl` and `deca_model.tar` to `data` folder
 
 ## Demo
 
